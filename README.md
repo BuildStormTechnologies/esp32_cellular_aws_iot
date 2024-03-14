@@ -11,12 +11,15 @@ Supported features:
 2. Shadow updates
 3. Jobs
 4. Web OTA using AWS jobs and S3 bucket
-5. Local websever OTA
+5. Local webserver OTA
 6. Provision by claim
 7. BLE Device Provisioning
 8. Wifi and Cellular co-existence
 
-## Refrences
+## Solution
+1. [Cellular AWS IoT Solution](https://buildstorm.com/solutions/esp32-cellular-aws-iot/)
+
+## Blogs
 1. [ESP32 – IDF: AWS IoT Device Provision](https://buildstorm.com/blog/esp32-idf-aws-iot-device-provision/)
 2. [ESP32 AWS-IOT OTA library on ESP-IDF](https://buildstorm.com/blog/esp32-aws-iot-ota-library-on-esp-idf/)
 
