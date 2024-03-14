@@ -19,7 +19,7 @@ Supported features:
 ## Solution
 1. [Cellular AWS IoT Solution](https://buildstorm.com/solutions/esp32-cellular-aws-iot/)
 
-## Blogs
+## Reference
 1. [ESP32 – IDF: AWS IoT Device Provision](https://buildstorm.com/blog/esp32-idf-aws-iot-device-provision/)
 2. [ESP32 AWS-IOT OTA library on ESP-IDF](https://buildstorm.com/blog/esp32-aws-iot-ota-library-on-esp-idf/)
 
